@@ -1,0 +1,2 @@
+# Snippet Box Project
+This project is a todo list application that allows users to create and read tasks and set the expiry dates. The application also includes user authentication, allowing users to securely sign up, log in and log out.
